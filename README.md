@@ -147,7 +147,10 @@ Click on Next button.
 			}
 		}
 	]
-}```
+}
+```
+
+
 
 ![image](https://github.com/Asma09Akram/Create-and-configure-Codepipeline-with-Elastic-Beanstalk/assets/124654068/904ee274-b8fe-4fc4-9751-868c6452316f)
 
